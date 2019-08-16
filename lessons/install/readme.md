@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I installed Python 3. Support for Python 2 will soon be discontinued, so it is a good idea to get used to the changes now. Additionally, I don't want any errors when doing the HackerRank prework. 
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3.7.4
 
  
 
