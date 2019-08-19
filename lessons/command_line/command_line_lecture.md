@@ -68,7 +68,7 @@ cd test_directory
 This "changes directory" and makes the named directory our new working
 directory. 
 
-Type '''bash pwd ''' to make sure we have changed directories. 
+Type```bash pwd ``` to make sure we have changed directories. 
 
 Let's get a few special things out of the way as well for command line. When
 we talk about folders, we don't always want to move "into" the next folder
