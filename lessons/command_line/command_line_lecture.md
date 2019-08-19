@@ -196,7 +196,7 @@ We can get even fancier by adding a second flag
 ls -lh
 ```
 
-> What changed?
+```Bytes are now given their approximate size in Kilo,Mega, etc.```
 
 If instead copying we just want to change the name of a file, we can do:
 
