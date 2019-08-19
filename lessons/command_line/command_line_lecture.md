@@ -122,7 +122,7 @@ echo "HELLO WORLD" > test_file.txt
 Now nothing shows up on the screen. List the files and see if you can tell
 why.
 
-> Hint: we learned how to list all the files up above.
+Answer: We have created the file  ```test_file.txt``` and written our quotation into it.  
 
 The greater than says, "put that output into the following file instead."
 
