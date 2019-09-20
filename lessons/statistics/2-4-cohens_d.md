@@ -13,7 +13,7 @@ first_weight.mean(),others_weight.mean(),first_weight.mean()-others_weight.mean(
 
 The above code yields the result:
 ```
-7.201094430437772, 7.325855614973262, -0.12476118453549034)
+(7.201094430437772, 7.325855614973262, -0.12476118453549034)
 ```
 This shows a very close mean weight for both first time births and non-first time births. We use the Cohen's D statistic to measure how many pooled standard deviations theses means are away from each other.
 
