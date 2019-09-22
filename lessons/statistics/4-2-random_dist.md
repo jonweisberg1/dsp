@@ -12,8 +12,9 @@ thinkplot.Pmf(pmf)
 thinkplot.Config(xlabel='Random Number', ylabel='PMF')
 
 ```
-
+![pmf](https://github.com/jonweisberg1/dsp/blob/JonWeisberg/images/pmf_random.png 'pmf')
 ```{python}
 thinkplot.Cdf(cdf)
 thinkplot.Config(xlabel='Random Number', ylabel='CDF')
 ```
+![cdf](https://github.com/jonweisberg1/dsp/blob/JonWeisberg/images/cdf_random.png 'cdf')
