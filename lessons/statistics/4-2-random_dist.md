@@ -18,3 +18,5 @@ thinkplot.Cdf(cdf)
 thinkplot.Config(xlabel='Random Number', ylabel='CDF')
 ```
 ![cdf](https://github.com/jonweisberg1/dsp/blob/JonWeisberg/images/cdf_random.png 'cdf')
+
+Because the CDF is roughly a straight line, we can conclude that the distribution is uniform. 
