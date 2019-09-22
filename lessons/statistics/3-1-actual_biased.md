@@ -10,4 +10,4 @@ thinkplot.Pmfs([pmf_actual, pmf_biased])
 thinkplot.Config(xlabel='Number of Children', ylabel='PMF')
 ```
 ![pmf]
-(images/pmf_children.png)
+(/images/pmf_children.png)
