@@ -9,4 +9,5 @@ thinkplot.PrePlot(2)
 thinkplot.Pmfs([pmf_actual, pmf_biased])
 thinkplot.Config(xlabel='Number of Children', ylabel='PMF')
 ```
-![](images/pmf_children.png)
+![pmf]
+(images/pmf_children.png)
