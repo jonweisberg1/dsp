@@ -89,7 +89,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 We use Bayes' Theorem to solve the problem.
 
 
-$p(A|B) = \frac{p(A)p(B|A)}{p(B)}$
+$$p(A|B) = \frac{p(A)p(B|A)}{p(B)}$$
 
 
 ---
