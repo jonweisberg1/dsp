@@ -11,3 +11,12 @@ thinkplot.Config(xlabel='Number of Children', ylabel='PMF')
 ```
 
 ![pmf](https://github.com/jonweisberg1/dsp/tree/JonWeisberg/images/pmf_children.png 'pmf')
+```{python}
+print('Biased Mean: ',pmf_biased.Mean())
+print('Unbiased Mean: ',pmf_actual.Mean())
+```
+Which yields:
+```
+Biased Mean:  2.403679100664282
+Unbiased Mean:  1.024205155043831
+```
