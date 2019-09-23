@@ -94,6 +94,7 @@ p(A|B) = p(A)p(B|A) / p(B)
 In our case:
   - A=Is an Identical Twin
   - B=Is a Twin
+  
 We thus want to caculate p(Elvis is and Identical Twin | Elvis is a twin). We are given p(identical) = 1/300.
 p(twin | identical) must equal 1 because if you are an identical twin you must be a twin. Next we calculate p(twin).
 If you are a twin, you must be either fraternal or identical. Thus p(twin) = p(fraternal) + p(identical) = 1/125 + 1/300 = 425/37500
