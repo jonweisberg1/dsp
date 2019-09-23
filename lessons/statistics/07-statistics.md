@@ -107,7 +107,13 @@ Therefore, the probibility that Elvis is and identical twin is p(A|B) = (1/300)(
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+---
+
+Bayesian and Frequentist statistics differ in their definition of probability. The frequentist definition requires an event be repeatable in order to assign a probability. It also requires probabilities _**not**_ be assinged to unknown values, like some average of an incomplete data set. 
+
+The Bayesian perspective allows one to assign a probability to a hypothesis or an unknown event or value. This is done by using Bayes' Theorem to predict the probability of a hypothesis or unknown being true by using prior probabilities to predict posterior probabilities. 
+
+
 
 ---
 
